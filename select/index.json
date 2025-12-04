@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Door",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-04T05:16:09.136906Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girl Next Door",
+      "artist": "Brandy Clark",
+      "has_synced": true,
+      "path": "select/01_Girl_Next_Door_Brandy_Clark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honey (Open That Door)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/02_Honey_(Open_That_Door)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honey (Open That Door) (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/03_Honey_(Open_That_Door)_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Get Up And Close The Door",
+      "artist": "Johnny Rodriguez",
+      "has_synced": true,
+      "path": "select/04_Just_Get_Up_And_Close_The_Door_Johnny_Rodriguez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Living Next Door to Alice",
+      "artist": "Smokie",
+      "has_synced": false,
+      "path": "select/05_Living_Next_Door_to_Alice_Smokie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lookin' Out My Back Door",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/06_Lookin'_Out_My_Back_Door_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Refrigerator Door",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/07_Refrigerator_Door_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Door",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/08_The_Door_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Door (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/09_The_Door_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Door Is Always Open",
+      "artist": "Dave & Sugar",
+      "has_synced": true,
+      "path": "select/10_The_Door_Is_Always_Open_Dave_&_Sugar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back at Your Door",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/11_Back_at_Your_Door_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Other Side Of The Door",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_The_Other_Side_Of_The_Door_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Dangerous Business Walking Out Your Front Door",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/13_It's_Dangerous_Business_Walking_Out_Your_Front_Door_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "OPEN THE DOOR",
+      "artist": "Die Antwoord feat. Panther Modern",
+      "has_synced": true,
+      "path": "select/14_OPEN_THE_DOOR_Die_Antwoord_feat._Panther_Modern.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Open The Door",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/15_Open_The_Door_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Wolf at the Door",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_A_Wolf_at_the_Door_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Door",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_Door_sumika.txt"
+    }
+  ]
+}
